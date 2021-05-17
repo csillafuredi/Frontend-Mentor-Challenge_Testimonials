@@ -107,15 +107,6 @@ showcase {
     grid-row: 1 / 3;
 }
 
-.attribution {
-    text-align: center;
-    font-size: 10px;
-}
-
-.attribution p {
-    display: inline;
-}
-
 @media screen and (max-width: 980px) {
     showcase {
         max-width: 80%;
