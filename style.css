@@ -108,6 +108,7 @@ showcase {
 }
 
 .attribution {
+    display:block;
     text-align: center;
     font-size: 10px;
 }
